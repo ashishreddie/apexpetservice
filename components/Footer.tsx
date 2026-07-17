@@ -68,7 +68,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-white/10 py-5 text-center text-xs text-white/60">
-        © {new Date().getFullYear()} Apex Pet Clinic, Kazipet, Warangal. All rights reserved.
+        © {new Date().getFullYear()} Apex Pet Clinic, Kazipet, Warangal. All rights reserved -                @ developer ASHISH REDDY P .
       </div>
     </footer>
   );
