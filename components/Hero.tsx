@@ -9,7 +9,7 @@ export default function Hero() {
         <div>
           <p className="section-eyebrow mb-4">Kazipet · Warangal · Since 2011</p>
           <h1 className="text-4xl sm:text-5xl font-bold text-blue-dark leading-tight">
-            Compassionate care for your pets, day and night.
+            Compassionate care for your pets .
           </h1>
           <p className="mt-5 text-ink/70 text-lg max-w-md">
             Apex Pet Clinic brings experienced doctors, gentle grooming, and full pharmacy
