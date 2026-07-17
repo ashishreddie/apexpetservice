@@ -15,7 +15,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Apex Pet Clinic | Warangal",
   description:
-    "Apex Pet Clinic in Kazipet, Warangal — grooming, boarding, vaccinations, surgery, pharmacy, training and pet walking. Open 9 AM – 8 PM, all days.",
+    "Apex Pet Clinic in Kazipet, Warangal — grooming, boarding, vaccinations, surgery, pharmacy, training . Open 9 AM – 9 PM, all days.",
 };
 
 export default function RootLayout({
